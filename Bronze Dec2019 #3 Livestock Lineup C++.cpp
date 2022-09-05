@@ -59,5 +59,4 @@ int main() {
         int x=out_s[i]-49;  // character number to numeric number using ascii code (acii code 49 = character 1)
         cout << cows[x] << endl;
     }
-    
 }
